@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Urvil Panchal!
-I'm an aspiring Data Scientist passionate about leveraging Machine Learning, Deep Learning, and Natural Language Processing to solve real-world problems. With hands-on experience in data visualization, object detection, and Generative AI, I enjoy crafting AI-powered solutions that make an impact. 🚀
+I'm a Data Science student passionate about leveraging Machine Learning, Deep Learning, and Natural Language Processing to solve real-world problems. With hands-on experience in data visualization, object detection, and Generative AI, I enjoy crafting AI-powered solutions that make an impact. 🚀
 
 💡 Currently, I'm focused on building innovative applications, fine-tuning Large Language Models (LLMs), and exploring frameworks like LangChain to push the boundaries of AI.
 ## 🌟 My expertise includes:
